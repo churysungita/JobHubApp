@@ -8,6 +8,12 @@ The process of searching jobs remains one of the most hassled tasks in one’s p
 
 To address these, HireHub was founded. With this platform, the job searching process will be made easier and hassle free. The users can apply for any job that matches their qualifications and skill sets. Their profile will directly be sent to the employers without having to upload a CV. In the favor of Employers, the employers can commit to 100% transparency of application by providing them with status of their application
 
+
+
+Although the admin dashboard will only be accessible through web platform, it will be able to manage all the users as well as the overall systems in this application. Speaking of Applicants, they will be able to view the jobs posted by several companies (Employers). Through this platform, the users will be allowed to browse, filter, and apply for the job that best suits their interests. The filter option will allow the users to narrow down the search to the post that best match their skill set or interests.  Moreover, the system will offer the users an option to save the job for latter. This option will enable users to efficiently handle the application for each individual job posts. In the favor of Employers, they will be able to post the job vacancies at their companies. The overall hiring process can be done through this platform. This includes job posting, shortlisting, interviewing, and onboarding. Once the application deadline closes, companies can handpick the candidates and shortlist them. They can communicate with them through real-time chat, emails or video conference (future work). Similarly, the system will automatically send them alerts about your decision and you can formally begin the onboarding process.
+
+
+
 # Hirehub Description
 The application will consist of two users: Applicant, Employer and Admin. Although the admin dashboard will only be accessible through web platform, it will be able to manage all the users as well as the overall systems in this application. Speaking of Applicants, they will be able to view the jobs posted by several companies (Employers). Through this platform, the users will be allowed to browse, filter, and apply for the job that best suits their interests. The filter option will allow the users to narrow down the search to the post that best match their skill set or interests.
 
